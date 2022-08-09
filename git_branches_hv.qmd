@@ -6,6 +6,15 @@ editor: visual
 ---
 
 ```{r}
+library(tidyverse)
 
 ```
+
+Lets add some edits!
+
+```{r}
+cool_code <- c(1, 2, 3)
+
+```
+
 
